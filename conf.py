@@ -17,7 +17,7 @@ import time
 
 
 # Data about this site
-BLOG_AUTHOR = "Jonathan Pelletier"  # (translatable)
+BLOG_AUTHOR = "John P"  # (translatable)
 BLOG_TITLE = "Maximus Magnus"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
@@ -1077,7 +1077,7 @@ BODY_END = """
 UNSLUGIFY_TITLES = True
 
 # Additional metadata that is added to a post when creating a new_post
-ADDITIONAL_METADATA = {'author':'Jonathan Pelletier'}
+ADDITIONAL_METADATA = {'author':'John P'}
 
 # Nikola supports Open Graph Protocol data for enhancing link sharing and
 # discoverability of your site on Facebook, Google+, and other services.

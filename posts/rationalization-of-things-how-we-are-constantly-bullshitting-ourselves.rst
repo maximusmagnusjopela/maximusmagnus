@@ -6,7 +6,7 @@
 .. link: 
 .. description: 
 .. type: text
-.. author: Jonathan Pelletier
+.. author: John P
 
 If you are anything like me, you have in your head a certain model, or 
 worldview, through wich you perceive and analyse the events in your daily life.
