@@ -1,2 +1,2 @@
 # maximusmagnus
-maximusmagnus.com Blog; John's P kingdom.
+maximusmagnus.com Blog; The universe of John P.
